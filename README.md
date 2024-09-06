@@ -1,9 +1,12 @@
-<h1>Open Route Service</h1>
+<h1 align="center"> Open Route Service Docker </h1>
 
-<br>
-Este é um arquivo .yaml para subir um container docker com imagem das dependências da API do Open Route Service.
-O serviço fica exposto na posta 8080 do host, inicialmente configurado para um servidor Linux Ubuntu 22.04 com o arquivo 
-OSM do Brasil.
+## 🎯 About
+ Docker Compose file to run Open Route Service back-end API.
 
-<br>
-Funcionalidades da API: Dada às coordenadas, a API retorna um JSON com a rota entre às coordenadas.
+## 🔨Functionality
+ Given a set of coordinates, returns the route between them.
+
+## 📚 Requirements
+This file was initialy configured to run on a linux ubuntu server 22.04 with 8GB RAM and 100GB SSD,
+to run the brazil osm(open street maps) file.
+
