@@ -10,3 +10,6 @@
 This file was initialy configured to run on a linux ubuntu server 22.04 with 8GB RAM and 100GB SSD,
 to run the brazil osm(open street maps) file.
 
+<br>
+documentation available on: https://giscience.github.io/openrouteservice/run-instance/running-with-docker
+
